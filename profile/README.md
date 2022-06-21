@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-blockchain core conception
+prepare to collcet blockchain core conception
 
 <!--
 
